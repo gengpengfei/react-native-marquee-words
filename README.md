@@ -1,10 +1,11 @@
 # react-native-marquee-words
 reactNative 文字上下滚动走马灯组件
 
-# 安装使用
+# install
 npm install react-native-marquee-words --save
 
-# dome
+# Usage
+```
 import React, { Component } from 'react';
 import {
     View,
@@ -28,3 +29,6 @@ export default class Mall extends Component {
             />
     }
 }
+```
+# props
+1. style
